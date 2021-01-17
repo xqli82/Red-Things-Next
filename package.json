@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-hmi",
+  "name": "red-things-next",
   "version": "1.0.0",
-  "description": "My mind-blowing Nuxt.js project",
+  "description": "red-things-next",
   "author": "xiaoqiang",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "nuxt build",
     "start": "cross-env NODE_ENV=production node server/index.js",
     "generate": "nuxt generate",
-    "push":"git add . && git commit -m 'more' && git push -u origin"
+    "push":"git add . && git commit -m 'more' && git push -u origin master"
   },
   "dependencies": {
     "cross-env": "^5.2.0",
