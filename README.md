@@ -1,12 +1,14 @@
-# install
+# 1.Install
 ```
 npm install
 ```
-# build && run
+# 2.Build && Run
+## fist step
 ```
-//fist step
-npm run build
 
-//second step
+npm run build
+```
+## second step
+```
 npm run start
 ```
